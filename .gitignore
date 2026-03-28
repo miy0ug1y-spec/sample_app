@@ -33,3 +33,20 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
+box/
+caravan/
+chapter10/
+chapter2_exercise/
+chapter4_exercise/
+chapter5_exercise/
+chapter6_exercise/
+chapter7_exercise/
+chapter8_exercise/
+chapter9/
+chapter9_ensyu1/
+first_app/
+flex/
+flexbox_exercise/
+ruby/
+sample/
+sites/
